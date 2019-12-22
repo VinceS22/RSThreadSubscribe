@@ -1,0 +1,14 @@
+{
+  "name": "rsthreadsubscribe",
+  "version": "1.0.0",
+  "description": "Checks a RuneScape forum thread every X minutes and notifies on updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vince Smith",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.2"
+  }
+}
